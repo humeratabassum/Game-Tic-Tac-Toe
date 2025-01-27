@@ -1,2 +1,1 @@
-# game
- 
+The Tic-Tac-Toe game is a simple yet interactive implementation using HTMML , CSS , JavaScript. It includes functionality to determine a winner and reset the game for a new session. The code efficiently checks for winning patterns and ensures a seamless user experience with clear feedback through messages. This project demonstrates foundational concepts in DOM manipulation, event handling, and game logic.
